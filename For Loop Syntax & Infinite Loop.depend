@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643106139 source:c:\users\md alimuzzaman haris\desktop\c programme\for loop syntax & infinite loop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
